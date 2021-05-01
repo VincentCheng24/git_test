@@ -1,0 +1,3 @@
+apt install -y python-catkin-tools ros-melodic-pcl-ros ros-melodic-cv-bridge ros-melodic-image-transport ros-melodic-tf2-eigen
+apt install -y python3-catkin-pkg-modules
+apt install -y python3-rospkg-modules
